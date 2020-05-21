@@ -1,0 +1,3 @@
+﻿  源.c
+D:\VS 下载缓存\项目\wordcount\源.c(46,15): warning C4013: “strcmp”未定义；假设外部返回 int
+  wordcount.vcxproj -> D:\VS 下载缓存\项目\wordcount\Debug\wordcount.exe

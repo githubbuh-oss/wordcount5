@@ -1,0 +1,2 @@
+D:\VS 下载缓存\项目\wordcount\Debug\wordcount.exe
+D:\VS 下载缓存\项目\wordcount\Debug\wordcount.pdb
